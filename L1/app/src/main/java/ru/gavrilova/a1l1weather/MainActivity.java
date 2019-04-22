@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initViews(){
+
         textView = findViewById(R.id.textView);
     }
 }

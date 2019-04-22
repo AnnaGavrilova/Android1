@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">A1L1Weather</string>
-    <string name="weather">Погода</string>
+    <string name="app_name" translatable="false">A1L1Weather</string>
+    <string name="weather">Weather</string>
 </resources>
